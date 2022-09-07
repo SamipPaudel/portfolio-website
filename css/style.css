@@ -194,3 +194,11 @@ nav img{
     opacity: 50%;
     text-align:left;
 }
+.pr-textarea{
+    display: flex;
+    flex-direction: column;
+}
+.pr-heading{
+    margin-left: 30px;
+    margin-top: 30px;
+}
